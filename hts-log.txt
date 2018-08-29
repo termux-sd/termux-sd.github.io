@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Aug 2018 16:24:30 at http://termux.ga/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://termux.ga/ -O1 "D:\mywebsite\termux-blackhat" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:22	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/be/1f/be1f8d96-141a-4a48-8874-97a33873f258.jpg (from termux.ga/)
+16:42:23	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/d8/18/d81832d9-cd04-467e-af46-2822fea3b2f1.jpg (from termux.ga/)
+16:42:23	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/c6/47/c6479e00-1950-4a96-9789-7f809518be61.jpg (from termux.ga/)
+16:42:23	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/6b/1c/6b1c3ba7-fcd0-4879-97ae-e37b2f76eb99.jpg (from termux.ga/)
+16:43:18	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/73/08/7308208e-f906-4928-9f26-34e7c77aef48.jpg (from termux.ga/)
+16:43:19	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/33/95/3395b2bb-a043-4a3c-a595-4d34f9df9a18.png (from termux.ga/)
+16:43:19	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/df/2a/df2ae5cf-1f91-4825-9043-60b13108d779.jpg (from termux.ga/)
+16:43:34	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/26/b8/26b89e06-e276-4c10-a923-7e82dc701b8c.jpg (from termux.ga/)
+16:43:34	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/7d/d9/7dd9fb84-8873-40cf-a272-e1b4477875fe.jpg (from termux.ga/)
+16:43:35	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/cb/60/cb601c8b-9a9e-465e-8703-3a85c1564855.jpg (from termux.ga/)
+16:43:35	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/53/88/5388b72b-2973-4f45-97b4-202e38e18a98.jpg (from termux.ga/)
+16:43:38	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/11/5b/115bba76-6ad0-4fe3-beda-08015faddef8.jpg (from termux.ga/)
+16:43:38	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/69/11/69119d8c-9c49-4c0b-affc-ff1ffe7e29b9.jpg (from termux.ga/)
+16:43:38	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/81/e2/81e28d64-fd4d-4d69-86b9-ce99456d304d.png (from termux.ga/)
+16:43:38	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/bd/dd/bdddeec2-6b65-414e-a384-dc448815323d.png (from termux.ga/)
+16:43:38	Warning: 	Retry after error -4 (Connect Error) at link d3b4n3yyoc8n59.cloudfront.net/f2c99cbbaa/compiled/published-v8-site.js (from termux.ga/)
+16:43:47	Error: 	"Not Found" (404) at link termux.ga/GET (from termux.ga/)
+16:43:47	Warning: 	Retry after error -4 (Connect Error) at link d3b4n3yyoc8n59.cloudfront.net/f2c99cbbaa/templates/yelaudio/js/mq4-hover-shim.js (from termux.ga/)
+16:44:03	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/73/08/7308208e-f906-4928-9f26-34e7c77aef48.jpg (from termux.ga/)
+16:44:03	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/33/95/3395b2bb-a043-4a3c-a595-4d34f9df9a18.png (from termux.ga/)
+16:44:03	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/26/b8/26b89e06-e276-4c10-a923-7e82dc701b8c.jpg (from termux.ga/)
+16:44:03	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/7d/d9/7dd9fb84-8873-40cf-a272-e1b4477875fe.jpg (from termux.ga/)
+16:44:03	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/cb/60/cb601c8b-9a9e-465e-8703-3a85c1564855.jpg (from termux.ga/)
+16:45:14	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/11/5b/115bba76-6ad0-4fe3-beda-08015faddef8.jpg (from termux.ga/)
+16:45:14	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/69/11/69119d8c-9c49-4c0b-affc-ff1ffe7e29b9.jpg (from termux.ga/)
+16:45:14	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/81/e2/81e28d64-fd4d-4d69-86b9-ce99456d304d.png (from termux.ga/)
+16:45:14	Warning: 	Retry after error -4 (Connect Error) at link d2f0ora2gkri0g.cloudfront.net/bd/dd/bdddeec2-6b65-414e-a384-dc448815323d.png (from termux.ga/)
+16:47:16	Error: 	"Connect Error" (-4) after 2 retries at link d2f0ora2gkri0g.cloudfront.net/26/b8/26b89e06-e276-4c10-a923-7e82dc701b8c.jpg (from termux.ga/)
+16:47:16	Error: 	"Connect Error" (-4) after 2 retries at link d2f0ora2gkri0g.cloudfront.net/7d/d9/7dd9fb84-8873-40cf-a272-e1b4477875fe.jpg (from termux.ga/)
+16:47:16	Error: 	"Connect Error" (-4) after 2 retries at link d2f0ora2gkri0g.cloudfront.net/cb/60/cb601c8b-9a9e-465e-8703-3a85c1564855.jpg (from termux.ga/)
+16:47:16	Error: 	"Connect Error" (-4) after 2 retries at link d2f0ora2gkri0g.cloudfront.net/11/5b/115bba76-6ad0-4fe3-beda-08015faddef8.jpg (from termux.ga/)
+16:47:16	Error: 	"Connect Error" (-4) after 2 retries at link d2f0ora2gkri0g.cloudfront.net/69/11/69119d8c-9c49-4c0b-affc-ff1ffe7e29b9.jpg (from termux.ga/)
+16:47:16	Error: 	"Connect Error" (-4) after 2 retries at link d2f0ora2gkri0g.cloudfront.net/81/e2/81e28d64-fd4d-4d69-86b9-ce99456d304d.png (from termux.ga/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 46 seconds : 74 links scanned, 40 files written (34560466 bytes overall) [33634745 bytes received at 24622 bytes/sec], 1295598 bytes transferred using HTTP compression in 10 files, ratio 26%
+(7 errors, 26 warnings, 0 messages)
